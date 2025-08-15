@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ConsoleExe": {
+      "commandName": "Project",
+      "commandLineArgs": "",
+      "environmentVariables": {
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+.vs
+.vsconfig
+bin
+obj
+
+cstest_unity/Library
+cstest_unity/Logs
+cstest_unity/Temp
+cstest_unity/UserSettings
+cstest_unity/*.sln
+cstest_unity/*.csproj
+cstest_unity/Packages/nuget-packages/InstalledPackages

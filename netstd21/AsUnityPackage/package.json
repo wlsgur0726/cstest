@@ -1,0 +1,11 @@
+{
+	"name": "com.kjh.cstest.netstd21",
+	"version": "1.0.0",
+	"displayName": "cstest.netstd21",
+	"description": "A Unity package for NetStd21 code.",
+	"unity": "2021.3",
+	"author": {
+		"name": "Your Name",
+		"email": "your@email.com"
+	}
+}
