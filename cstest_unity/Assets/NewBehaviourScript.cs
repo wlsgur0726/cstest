@@ -1,6 +1,4 @@
 using System;
-using System.Collections;
-using System.Collections.Generic;
 using System.IO;
 using System.Text;
 using UnityEngine;
@@ -35,4 +33,5 @@ public class NewBehaviourScript : MonoBehaviour
         public override void WriteLine(string value) => Print(value);
         public override void Write(string value) => Print(value);
     }
+
 }

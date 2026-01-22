@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="net10\net10.csproj" />
+  <Project Path="netstd21\netstd21.csproj" />
+  <Project Path="ConsoleExe\ConsoleExe.csproj" />
+</Solution>
